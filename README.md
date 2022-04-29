@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Matheus Sena Rosa
 - 😄 Estou atualmente estudando Front-end e Back-end
-- ⚡ Quero conseguir logo meu primeiro emprego como programador!!
 
 <div>
   <a href="https://github.com/MatheusSenaRosa">
